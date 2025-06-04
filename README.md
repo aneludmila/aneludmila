@@ -26,5 +26,4 @@ Olá! Eu sou a Ane Lumdila
   <a href="https://www.linkedin.com/in/aneludmila/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  ![Snake animation](https://github.com/aneludmila/aneludmila/blob/output/github-contribution-grid-snake.svg)
 </div>
